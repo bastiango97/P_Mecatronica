@@ -6,7 +6,7 @@ float value = 0; //variable donde guardaremos valor de pot
 float pmw = 0;
 float voltaje = 0;
 float voltajePorcentaje = 0;
-
+ 
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600); //la velocidad de transmisión
