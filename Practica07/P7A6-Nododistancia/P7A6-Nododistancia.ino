@@ -3,7 +3,7 @@
 #include <sensor_msgs/Range.h>
 #define trigPin 7
 #define echoPin 8
-
+ 
 long duration;
 float distance;
 
