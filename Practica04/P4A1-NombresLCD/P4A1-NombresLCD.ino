@@ -15,6 +15,6 @@ void loop() {
   for (int positionCounter = 0; positionCounter < 15; positionCounter++) {
     lcd.scrollDisplayLeft(); 
     delay(150); 
-  }
+  } 
   exit(0);
 }
